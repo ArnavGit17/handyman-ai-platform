@@ -1,6 +1,37 @@
+# Python
 __pycache__/
 *.pyc
-backend/handyman.db
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+.pytest_cache/
+coverage/
+*.cover
+.coverage
+
+# Node
 node_modules/
 dist/
+build/
+npm-debug.log
+yarn-error.log
+
+# Environment
 .env
+.env.*
+!.env.example
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Databases
+*.sqlite3
+handyman.db
