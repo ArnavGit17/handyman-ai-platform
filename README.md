@@ -137,8 +137,9 @@ Open `http://localhost:5173` in your browser.
 ![Payment Feature](assets/payment-feature.png)
 
 
-## Project Highlights
+# Project Highlights
+
 - **End-to-End Delivery**: Complete full-stack architecture from React UI to SQLAlchemy models.
-- **Algorithmic Complexity**: Implements a transparent, multi-factor scoring engine over traditional keyword matching.
-- **Production-Ready Practices**: Separation of concerns, environment-based configuration, API telemetry, and comprehensive automated testing.
-- **Data-Driven Engineering**: Built-in deterministic benchmarking tooling to validate system changes scientifically before deployment.
+- **Algorithmic Complexity**: Implements a transparent, multi-factor scoring engine rather than relying only on keyword matching.
+- **Engineering Practices**: Separation of concerns, environment-based configuration, API telemetry, and comprehensive automated testing.
+- **Data-Driven Engineering**: Built-in deterministic benchmarking tooling to validate matching-engine changes against reproducible scenarios.
