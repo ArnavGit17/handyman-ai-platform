@@ -130,8 +130,12 @@ Open `http://localhost:5173` in your browser.
 ### AI Evaluation & Benchmark
 ![AI Evaluation Dashboard](assets/ai-evaluation.png)
 
-### SOS & Payment
-![SOS and Payment Features](assets/sos-feature.png)
+### SOS
+![SOS Feature](assets/sos-feature.png)
+
+### Payment
+![Payment Feature](assets/payment-feature.png)
+
 
 ## Project Highlights
 - **End-to-End Delivery**: Complete full-stack architecture from React UI to SQLAlchemy models.
