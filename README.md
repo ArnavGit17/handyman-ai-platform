@@ -79,8 +79,8 @@ The backend is fully tested to ensure stability and correctness across all core 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
-cd Handyman
+git clone https://github.com/ArnavGit17/handyman-ai-platform.git
+cd handyman-ai-platform
 ```
 
 ### 2. Backend Setup
