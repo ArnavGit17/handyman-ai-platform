@@ -120,12 +120,18 @@ npm run dev
 Open `http://localhost:5173` in your browser.
 
 ## Screenshots
-*(Images to be added)*
-- **AI Evaluation Dashboard**: Telemetry and metrics for matching performance.
-- **Benchmark Results**: Visualization of deterministic test outcomes.
-- **Customer Dashboard**: Request submission and status tracking.
-- **Worker Dashboard**: Job acceptance, workflow, and earnings transparency.
-- **SOS Feature**: Urgent request interface and priority matching.
+
+### Customer Dashboard
+![Customer Dashboard](assets/customer-dashboard.png)
+
+### Worker Dashboard
+![Worker Dashboard](assets/worker-dashboard.png)
+
+### AI Evaluation & Benchmark
+![AI Evaluation Dashboard](assets/ai-evaluation.png)
+
+### SOS & Payment
+![SOS and Payment Features](assets/sos-feature.png)
 
 ## Project Highlights
 - **End-to-End Delivery**: Complete full-stack architecture from React UI to SQLAlchemy models.
